@@ -10,11 +10,10 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-.. Hidden TOCs
+Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Getting Started
-   :hidden:
+   :caption: Basics
 
    Configuration
