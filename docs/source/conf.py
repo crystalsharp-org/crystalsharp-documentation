@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Crystal Sharp - Documentation'
+copyright = '2024, Zeeshan Mehmood'
+author = 'Zeeshan Mehmood'
 
 release = '0.1'
 version = '0.1.0'
